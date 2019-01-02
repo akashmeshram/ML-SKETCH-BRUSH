@@ -36,7 +36,7 @@ function draw() {
 		push();
 		tX += (mX - tX)/30 ;
 		tY += (mY - tY)/30 ;
-		translate(tX, tY - 200);
+		translate(tX, tY - 100);
 		fill(hu, 255, 255);
 		stroke(255 - hu, 255, 255);
 		ellipse(0, 0, thick, thick);
