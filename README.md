@@ -2,7 +2,7 @@
 This simple program lets you draw pattern with a circular brush by using your face.
 
 ## Link
-https://akashmeshram.github.io/ML-SKETCH-BRUSH/
+https://akashmeshram.github.io/ML-Sketch-Brush/
 
 ## Author
 *  [Akash Meshram](https://github.com/akashmeshram)
